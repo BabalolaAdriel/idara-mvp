@@ -1,0 +1,10 @@
+# Whisper Models Directory
+
+Place your Whisper WASM models in this directory.
+
+For the MVP, download:
+- `whisper-tiny.en.bin` (39MB)
+
+Download from: https://huggingface.co/ggerganov/whisper.cpp
+
+Note: Models are excluded from git due to file size.
